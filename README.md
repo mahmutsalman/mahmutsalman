@@ -25,8 +25,5 @@ This portfolio includes various college projects that demonstrate my technical a
 - CSS3
 - GitHub Pages for hosting
 
-## Visit My Portfolio
-You can view my portfolio at: [https://mahmutsalman.github.io](https://mahmutsalman.github.io)
-
 ## Special Thanks
 Special thanks to SynthJob for inspiring this website!
